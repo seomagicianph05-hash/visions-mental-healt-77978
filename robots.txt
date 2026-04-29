@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph05-hash.github.io/visions-mental-healt-77978/sitemap.xml
+Sitemap: https://visions-mental-healt-77978.pages.dev/sitemap.xml
